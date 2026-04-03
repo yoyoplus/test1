@@ -25,3 +25,4 @@ modify text slightly
 update section
 clean up file
 add notes
+update info
