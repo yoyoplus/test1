@@ -31,3 +31,4 @@ improve wording
 quick fix
 edit content
 update step
+minor fix applied
