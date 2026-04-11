@@ -52,3 +52,4 @@ update minor details
 fix typo in text
 adjust wording slightly
 add extra line
+update documentation
