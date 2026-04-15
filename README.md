@@ -59,3 +59,4 @@ refine text structure
 update readme file
 minor content tweak
 improve clarity
+fix small issue
