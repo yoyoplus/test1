@@ -74,3 +74,4 @@ edit minor part
 update lines again
 improve structure
 fix small bug
+quick content edit
