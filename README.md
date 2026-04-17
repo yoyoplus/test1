@@ -77,3 +77,4 @@ fix small bug
 quick content edit
 update summary
 add clarification
+edit file content
