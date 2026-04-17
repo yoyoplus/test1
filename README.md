@@ -69,3 +69,4 @@ small refactor
 modify structure
 update section info
 clean formatting
+adjust details
