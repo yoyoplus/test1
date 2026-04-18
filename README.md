@@ -66,3 +66,4 @@ edit formatting
 This repository is used for practicing basic documentation updates and tracking small changes over time.
 This repository is created to practice making small but consistent updates to documentation.
 The goal of this repository is to simulate real-world editing by applying gradual improvements over time.
+This project focuses on refining documentation through continuous minor changes and adjustments.
