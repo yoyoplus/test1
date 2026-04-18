@@ -64,3 +64,4 @@ update file notes
 edit formatting
 # Test Project 
 This repository is used for practicing basic documentation updates and tracking small changes over time.
+This repository is created to practice making small but consistent updates to documentation.
