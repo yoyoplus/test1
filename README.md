@@ -62,4 +62,5 @@ improve clarity
 fix small issue
 update file notes
 edit formatting
-
+# Test Project 
+This repository is used for practicing basic documentation updates and tracking small changes over time.
