@@ -82,3 +82,4 @@ adjust section text
 minor update again
 refine documentation
 update simple text
+clean up wording
