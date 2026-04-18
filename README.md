@@ -70,3 +70,4 @@ This project focuses on refining documentation through continuous minor changes 
 Here I am testing how small updates can improve overall structure and readability.
 This repository serves as a simple environment to experiment with documentation updates.
 The content in this repository is being updated step by step to reflect a natural workflow.
+This project is used to explore how incremental edits can enhance documentation quality.
