@@ -71,3 +71,4 @@ Here I am testing how small updates can improve overall structure and readabilit
 This repository serves as a simple environment to experiment with documentation updates.
 The content in this repository is being updated step by step to reflect a natural workflow.
 This project is used to explore how incremental edits can enhance documentation quality.
+I am using this repository to practice organizing and improving written content gradually
