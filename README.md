@@ -78,3 +78,4 @@ quick content edit
 update summary
 add clarification
 edit file content
+adjust section text
