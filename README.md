@@ -68,3 +68,4 @@ This repository is created to practice making small but consistent updates to do
 The goal of this repository is to simulate real-world editing by applying gradual improvements over time.
 This project focuses on refining documentation through continuous minor changes and adjustments.
 Here I am testing how small updates can improve overall structure and readability.
+This repository serves as a simple environment to experiment with documentation updates.
