@@ -74,3 +74,4 @@ This project is used to explore how incremental edits can enhance documentation 
 I am using this repository to practice organizing and improving written content gradually
 This repository reflects an ongoing process of making small but meaningful documentation updates.
 The purpose here is to simulate consistent edits and observe how content evolves over time.
+This repository is created to practice making consistent documentation updates over time.
