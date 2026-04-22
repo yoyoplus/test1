@@ -78,3 +78,4 @@ This repository is created to practice making consistent documentation updates o
 The goal of this repository is to simulate a natural workflow through continuous small edits.
 This project focuses on improving documentation step by step with minor refinements.
 Here I am testing how gradual updates can enhance readability and structure.
+This repository serves as a simple environment for experimenting with documentation changes.
