@@ -81,3 +81,4 @@ Here I am testing how gradual updates can enhance readability and structure.
 This repository serves as a simple environment for experimenting with documentation changes.
 Content in this repository is updated progressively to reflect a real editing process
 This project explores how incremental improvements can shape better documentation.
+I am using this repository to practice organizing content and refining structure.
