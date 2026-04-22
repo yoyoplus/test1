@@ -75,3 +75,4 @@ I am using this repository to practice organizing and improving written content 
 This repository reflects an ongoing process of making small but meaningful documentation updates.
 The purpose here is to simulate consistent edits and observe how content evolves over time.
 This repository is created to practice making consistent documentation updates over time.
+The goal of this repository is to simulate a natural workflow through continuous small edits.
