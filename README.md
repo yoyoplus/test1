@@ -86,3 +86,4 @@ This repository reflects an ongoing effort to improve documentation quality.
 The purpose here is to simulate continuous updates and track content evolution
 This project is designed to demonstrate how small changes can improve overall clarity.
 Updates are applied gradually in this repository to mimic real-world usage.
+This repository is part of a process to practice consistent documentation editing.
