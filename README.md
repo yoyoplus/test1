@@ -83,3 +83,4 @@ Content in this repository is updated progressively to reflect a real editing pr
 This project explores how incremental improvements can shape better documentation.
 I am using this repository to practice organizing content and refining structure.
 This repository reflects an ongoing effort to improve documentation quality.
+The purpose here is to simulate continuous updates and track content evolution
