@@ -95,3 +95,4 @@ The aim is to build a habit of consistent updates through incremental edits.
 This project demonstrates how repeated small changes can lead to better results.
 The documentation here is continuously improved through simple updates.
 This repository is used to explore different ways of updating documentation effectively.
+Small updates are applied regularly to simulate a realistic editing process.
