@@ -90,3 +90,4 @@ This repository is part of a process to practice consistent documentation editin
 Each change in this project is intended to reflect a natural development workflow
 The content here evolves over time through small but meaningful updates.
 This repository helps simulate ongoing improvements in documentation practices.
+I am refining this repository step by step to improve its overall structure
