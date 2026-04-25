@@ -60,7 +60,7 @@ update readme file
 minor content tweak
 improve clarity
 fix small issue
-update file notes
+The goal is to improve documentation quality through gradual and consistent edits.
 This repository represents a continuous effort to refine written content.
 This repository shows how documentation can improve through steady progress.
 This repository is used for practicing basic documentation updates and tracking small changes over time.
