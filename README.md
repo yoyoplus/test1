@@ -61,7 +61,7 @@ minor content tweak
 improve clarity
 fix small issue
 update file notes
-edit formatting
+This repository represents a continuous effort to refine written content.
 This repository shows how documentation can improve through steady progress.
 This repository is used for practicing basic documentation updates and tracking small changes over time.
 This repository is created to practice making small but consistent updates to documentation.
